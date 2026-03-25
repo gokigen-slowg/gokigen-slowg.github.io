@@ -1,0 +1,1 @@
+# gokigen-slowg.github.io
