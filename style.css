@@ -16,6 +16,9 @@ li {
   margin: 0 10px;
 }
 /*  タイトル  */
-h1, h2, p {
+h1, p {
+  text-align: center;
+}
+main h2 {
   text-align: center;
 }
